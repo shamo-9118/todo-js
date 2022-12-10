@@ -15,14 +15,14 @@ h1 {
     margin: 0 auto;
 }
 
-section {
-    text-align: center;
-}
-
 h2 {
     text-align: center;
     width: 40%;
     margin: 0 auto;
+}
+
+section {
+    text-align: center;
 }
 
 ul {
@@ -36,7 +36,15 @@ li {
     padding: 20px 0;
 }
 
+button {
+    margin: 10px;
+}
+
 .input-area {
     margin: 32px;
     text-align: center;
+}
+
+.task-wrapper {
+    display: flex;
 }
