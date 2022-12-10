@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+}
+header {
+    margin-bottom: 30px;
+    display: flex;
+    align-items: center;
+    background-color: #dbdbdb;
+    height: 5em;
+}
+
+h1 {
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+}
+
+section {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    width: 40%;
+    margin: 0 auto;
+}
+
+ul {
+    border: 2px solid #dbdbdb;
+    border-radius: 15px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+li {
+    padding: 20px 0;
+}
+
+.input-area {
+    margin: 32px;
+    text-align: center;
+}
